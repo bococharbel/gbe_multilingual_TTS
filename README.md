@@ -6,12 +6,12 @@ and Yoruba. But we are planing to extend it to more language.
 TTS system based on fastspeech2 for Gbe languages (Fongbe, Gungbe, gengbe, ...) 
 
 We use :
-a Fork of https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch for Fastpitch implementation  
-(https://github.com/NVIDIA/DeepLearningExamples/)
-Conformer implementation https://github.com/sooftware/conformer
-SoftLengthRegulation Implementation https://github.com/LuckerYi/SoftSpeech
-VQ VAE Implementation https://github.com/hhguo/MSMC-TTS
-Fastspeech 2  implementation from  https://github.com/NVIDIA/NeMo
+a Fork of https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch 
+(https://github.com/NVIDIA/DeepLearningExamples/)  for Fastpitch implementation  and ConvAttention (For MAS Monotonic Alignment Search with Convolutional Attention to align Mel Spectrogram on input text during training )
+Conformer implementation https://github.com/sooftware/conformer (to replace Tranformers)
+SoftLengthRegulation Implementation https://github.com/LuckerYi/SoftSpeech (For duration leaning and hidden representation expanding to match mel spectrogram size)
+VQ VAE Implementation https://github.com/hhguo/MSMC-TTS (VQ feature learning)
+Fastspeech 2  implementation from  https://github.com/NVIDIA/NeMo 
 
 
 We also use scripts from :
