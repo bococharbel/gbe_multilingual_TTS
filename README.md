@@ -1,7 +1,24 @@
 # gbe_multilingual_TTS
+
+This project aims to realise a TTS system for african GBE Languages. it supports three gbe languages actually (Fongbe, Gungbe, gengbe, ...) 
+and Yoruba. But we are planing to extend it to more language.
+
 TTS system based on fastspeech2 for Gbe languages (Fongbe, Gungbe, gengbe, ...) 
 
-source code are partially released here.
+We use :
+a Fork of https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch for Fastpitch implementation  
+(https://github.com/NVIDIA/DeepLearningExamples/)
+Conformer implementation https://github.com/sooftware/conformer
+SoftLengthRegulation Implementation https://github.com/LuckerYi/SoftSpeech
+VQ VAE Implementation https://github.com/hhguo/MSMC-TTS
+Fastspeech 2  implementation from  https://github.com/NVIDIA/NeMo
+
+
+We also use scripts from :
+https://github.com/alpoktem/bible2speechDB
+https://github.com/neulab/AfricanVoices
+
+Source code are partially released here.
 
 audio samples are available at https://ttsfongbe.000webhostapp.com/index.php
 
