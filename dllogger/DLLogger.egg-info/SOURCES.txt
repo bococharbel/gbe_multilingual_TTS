@@ -1,9 +1,0 @@
-README.md
-setup.py
-./LICENSE
-DLLogger.egg-info/PKG-INFO
-DLLogger.egg-info/SOURCES.txt
-DLLogger.egg-info/dependency_links.txt
-DLLogger.egg-info/top_level.txt
-dllogger/__init__.py
-dllogger/logger.py
