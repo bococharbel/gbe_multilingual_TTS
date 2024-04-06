@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b82f416-8858-4f4e-9638-2f11e9b515a1" name="Changes" comment="New files added. i will send the remaining files after some corrections">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gbe_multilingual_TTS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dllogger/DLLogger.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dllogger/DLLogger.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dllogger/DLLogger.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dllogger/build/lib/dllogger/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dllogger/build/lib/dllogger/logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dllogger/dist/DLLogger-0.1.0-py3.9.egg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filelists/ljs_audio_pitch_text_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filelists/ljs_audio_pitch_text_train_v3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filelists/ljs_audio_pitch_text_val.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filelists/ljs_audio_text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filelists/ljs_audio_text_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filelists/ljs_audio_text_train_v3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filelists/ljs_audio_text_val.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan/arg_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan/meldataset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan/meldataset_me.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan2/discriminator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan2/generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hifigan2/generator20230329.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fastpitch_model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/loss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/loss_fp16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/loss_fp32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pitch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +38,7 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
 }</component>
@@ -75,104 +46,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="gbe_multilingual_TTS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="gbe_multilingual_TTS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="gbe_multilingual_TTS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="gbe_multilingual_TTS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="gbe_multilingual_TTS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="gbe_multilingual_TTS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -267,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712239452293</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239628677</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239628677</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239694932</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239694932</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
