@@ -29,7 +29,7 @@ https://github.com/neulab/AfricanVoices
 
 Source code are partially released here.
 
-audio samples are available at https://ttsfongbe.000webhostapp.com/index.php
+audio samples are available at https://ttsfongbe.me
 
 # Resources
 
