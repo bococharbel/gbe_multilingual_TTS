@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b82f416-8858-4f4e-9638-2f11e9b515a1" name="Changes" comment="New files added. i will send the remaining files after some corrections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="c9ff25c35520c189c4d76922a46a297b8123fe30" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2YtHoiGfrln7kBOEMyy5K3BD3VG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/Documents/PHD/PHD/speech_synthesis/ctc-fon/models_ok/DeepLearningExamplesFastpitch1.1/PyTorch/SpeechSynthesis/gbe_multilingual_TTS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b82f416-8858-4f4e-9638-2f11e9b515a1" name="Changes" comment="" />
+      <created>1701338131927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701338131927</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New files added. i will send the remaining files after">
+      <created>1701339367155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701339367156</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New files added. i will send the remaining files after">
+      <created>1709658864796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709658864796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New files added. i will send the remaining files after">
+      <created>1709659115146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709659115146</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New files added. i will send the remaining files after">
+      <created>1709659129808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709659129808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New files added. i will send the remaining files after">
+      <created>1709659144571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709659144571</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New files added. i will send the remaining files after">
+      <created>1710407809907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710407809907</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239271467</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239271467</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239279005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239279005</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239329254</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239329254</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239343693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239343693</updated>
+    </task>
+    <task id="LOCAL-00011" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239413738</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239413738</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239452293</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239452293</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239628677</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239628677</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712239694932</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239694932</updated>
+    </task>
+    <task id="LOCAL-00015" summary="New files added. i will send the remaining files after some corrections">
+      <created>1712375728781</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712375728781</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New files added. i will send the remaining files after" />
+    <MESSAGE value="New files added. i will send the remaining files after some corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="New files added. i will send the remaining files after some corrections" />
+  </component>
+</project>
